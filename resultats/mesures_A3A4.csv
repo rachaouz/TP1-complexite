@@ -1,0 +1,9 @@
+﻿Algorithme;Jeu_de_donnees;Nombre_de_valeurs;Nombre_de_premiers;REP;Temps_total_s;Statut
+A3;Random100.txt;100;100;1000;0,027651;OK
+A4;Random100.txt;100;100;1000;0,012384;OK
+A3;Random1000.txt;1000;1000;1000;0,301514;OK
+A4;Random1000.txt;1000;1000;1000;0,130868;OK
+A3;Test-1.txt;100;100;1000;0,000289;OK
+A4;Test-1.txt;100;100;1000;0,000142;OK
+A3;Test-2.txt;60;60;1000;0,000309;OK
+A4;Test-2.txt;60;60;1000;0,000127;OK
