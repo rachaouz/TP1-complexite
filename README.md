@@ -1,1 +1,4 @@
-﻿# TP1 - Complexite : test de primalite (A1-A4)
+﻿# TP1-complexite
+cd C:\Users\Racha\Desktop\complex\TP1
+Set-ExecutionPolicy -Scope Process Bypass -Force
+.\fusionner_resultats.ps1
